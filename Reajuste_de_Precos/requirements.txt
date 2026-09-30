@@ -1,0 +1,7 @@
+# Este projeto NÃO possui dependências externas.
+# Usa apenas módulos da biblioteca padrão do Python (3.10 ou superior):
+#   - tkinter  (interface gráfica - já vem instalado com o Python no Windows)
+#   - json     (persistência do catálogo)
+#   - pathlib  (caminhos de arquivo)
+#
+# Nada precisa ser instalado com pip.
